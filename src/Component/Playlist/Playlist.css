@@ -1,0 +1,50 @@
+.playlist{
+    width: 60%;
+    height: 400px;
+    border: 3px solid blue;
+    margin-left: 25%;
+    margin-top: 30px;
+    overflow-y: scroll;
+   overflow-x: hidden;
+    
+}
+.btn{
+    margin-top: 60%;
+    font-size: 20px;
+    
+}
+
+.playlist1{
+    width: 100%;
+    border: 2px solid green;
+    margin-top: 40px;
+   
+}
+
+.bt1{
+    float: left;
+    font-size: 20px;
+    color: seagreen;
+
+}
+
+.spn2{
+float: right;
+margin-right: 60px;
+}
+
+.b{
+    font-size: 20px;
+    float: right;
+  
+}
+
+
+.remove{
+    margin-left: 25px;
+    color: red;
+}
+.spn1{
+    color: hsl(271, 84%, 48%);
+    margin-left: 40px;
+}
