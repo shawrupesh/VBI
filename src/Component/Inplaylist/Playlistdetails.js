@@ -67,11 +67,10 @@ useEffect(()=>{
       
       <button  onClick={Addsong} className="button1">Add Song</button>
         <div>
-            {
-            !num &&  <>
+            {!num &&  <>
                   <div>
         <h1 className="title">{Name}</h1>
-        <span>No songs added </span>
+        <span className="h1">No songs added </span>
         </div>
 
                 </>}
